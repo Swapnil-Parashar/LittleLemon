@@ -2,20 +2,17 @@ header {
     height: 150px;
     background-color: rgb(181, 179, 179); 
     box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;    
-    margin-bottom: 10px;
+
 }
 img {
     height: 125px;
     padding: 15px;
 }
-.navbar {
-    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
-    margin-bottom: 10px;
-}
+
 .hero {
     height:75vh;
     background:url(https://images.unsplash.com/photo-1600891964599-f61ba0e24092?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmVzdGF1cmFudCUyMGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=1000&q=60)  center / cover no-repeat;
-    opacity: 75%;
+
 }
 .info {
     margin-top: -200px;
@@ -24,7 +21,7 @@ img {
     margin-bottom: 50px;
 }
 .card {
-    width: 25rem;
+    width: 20rem;
     margin-left: auto;
     margin-right: auto;
 }
@@ -38,5 +35,11 @@ footer {
     align-items: center;
     margin-top: auto;
     margin-bottom: auto;
+}
+#minilogo {
+    height: 200px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
